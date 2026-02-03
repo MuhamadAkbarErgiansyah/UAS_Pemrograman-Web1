@@ -13,6 +13,25 @@
 
 ---
 
+## 🎬 Demo Video & Dokumentasi
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1dOiDsNFhu8hP-HIRAN_Ut8zx0gIZpp0l?usp=sharing">
+    <img src="https://img.shields.io/badge/📁%20Lihat%20Demo%20Video-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Demo Video">
+  </a>
+</p>
+
+<p align="center">
+  🎥 <b><a href="https://drive.google.com/drive/folders/1dOiDsNFhu8hP-HIRAN_Ut8zx0gIZpp0l?usp=sharing">Klik di sini untuk melihat Demo Video Aplikasi Explore Bandung</a></b>
+</p>
+
+> 📌 **Catatan**: Folder berisi video demo lengkap fitur-fitur aplikasi termasuk:
+> - Demo fitur user (login, booking, wishlist, review, chat)
+> - Demo fitur admin (dashboard, approval, voucher, analytics)
+> - Walkthrough aplikasi secara keseluruhan
+
+---
+
 ## 📋 Daftar Isi
 
 - [Tentang Project](#-tentang-project)
