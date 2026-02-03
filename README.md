@@ -13,7 +13,21 @@
 
 ---
 
-## 🎬 Demo Video & Dokumentasi
+## � Akses Aplikasi
+
+<p align="center">
+  <a href="https://aspel.cyou/ExploreBandung">
+    <img src="https://img.shields.io/badge/🚀%20Buka%20Aplikasi%20Live-aspel.cyou/ExploreBandung-00A4EF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  👉 <b><a href="https://aspel.cyou/ExploreBandung">AKSES APLIKASI SEKARANG</a></b> ← Klik untuk membuka aplikasi yang sudah di-hosting!
+</p>
+
+---
+
+## �🎬 Demo Video & Dokumentasi
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1dOiDsNFhu8hP-HIRAN_Ut8zx0gIZpp0l?usp=sharing">
